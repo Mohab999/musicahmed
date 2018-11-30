@@ -1,6 +1,6 @@
 token=NTE4MDE1NTIxMjMzNTY3NzQ4.DuKnog.E3gdLx32X3_vHWMsG8rZF5ug69Y
 owner=343742738950520832 
-prefix=6
+prefix=AH
 game=Mùsic, AHMED 𖤐. '♪
 stayinchannel=false
 songinstatus=true
